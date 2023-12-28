@@ -1,10 +1,5 @@
-import HomeLoginButton from './components/HomeLoginButton';
+import { TickUpLandingPage } from './components/LandingPageTikup';
 
 export default function Home() {
-    return (
-        <main className="flex min-h-screen flex-col items-center p-24">
-            Hello World!
-            <HomeLoginButton />
-        </main>
-    );
+    return <TickUpLandingPage />;
 }
