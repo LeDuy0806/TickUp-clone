@@ -1,5 +1,5 @@
 import { Button } from "@/shared/components/button";
-import React from "react";
+
 import HomeLoginButton from "./HomeLoginButton";
 import HomeSignUpButton from "./HomeSignUpButton";
 

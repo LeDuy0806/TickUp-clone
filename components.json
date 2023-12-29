@@ -12,6 +12,6 @@
   },
   "aliases": {
     "components": "@/shared/components",
-    "utils": "@/shared/lib/taiwind.util"
+    "utils": "@/shared/utils/taiwind.util"
   }
 }

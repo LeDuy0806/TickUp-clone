@@ -4,7 +4,7 @@ import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu";
 import { Check, ChevronRight, Circle } from "lucide-react";
 import * as React from "react";
 
-import { cn } from "@/shared/lib/taiwind.util";
+import { cn } from "@/shared/utils/taiwind.util";
 
 const DropdownMenu = DropdownMenuPrimitive.Root;
 

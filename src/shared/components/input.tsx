@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import { cn } from "@/shared/lib/taiwind.util";
+import { cn } from "@/shared/utils/taiwind.util";
 
 export type InputProps = React.InputHTMLAttributes<HTMLInputElement>;
 
