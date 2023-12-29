@@ -1,5 +1,5 @@
-import { TickUpLandingPage } from './components/LandingPageTikup';
+import { TickUpLandingPage } from "./components/LandingPageTikup";
 
 export default function Home() {
-    return <TickUpLandingPage />;
+  return <TickUpLandingPage />;
 }

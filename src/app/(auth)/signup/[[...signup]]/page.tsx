@@ -1,10 +1,9 @@
-import { SignUp } from '@clerk/nextjs';
-import React from 'react';
+import { SignUp } from "@clerk/nextjs";
 
 // type Props = {}
 
-const LoginPage: React.FC = (props) => {
-    return <SignUp />;
+const SignUpPage: React.FC = (props) => {
+  return <SignUp redirectUrl="/dashboard" />;
 };
 
-export default LoginPage;
+export default SignUpPage;
