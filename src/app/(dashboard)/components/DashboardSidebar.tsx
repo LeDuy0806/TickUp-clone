@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const DashboardSidebar: React.FC = (props) => {
-    return <aside>Dashboard Sidebar</aside>;
+  return <aside>Dashboard Sidebar</aside>;
 };
 
 export default DashboardSidebar;
